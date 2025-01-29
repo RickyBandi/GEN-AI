@@ -1,7 +1,6 @@
 # 🧠 GEN-AI LAB ASSIGNMENTS (2303A52330)
-> *Exploring the future of Artificial Intelligence, one lab at a time...*
 
-👋 Hey there! I'm **B. Rithwik**, and this repository contains my **GEN-AI** lab assignments. Follow along as I experiment with AI-driven solutions, machine learning models, and creative applications of artificial intelligence!
+👋 Hey there! I'm **B. Rithwik**, and this repository contains my **GEN-AI** lab assignments.
 
 ## 📌 Lab Progress 📝  
 
