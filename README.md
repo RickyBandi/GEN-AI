@@ -1,15 +1,13 @@
-# GEN-AI
-<h1>LAB ASSIGNMENTS (2303A52330)</h1>
-<h1>B.Rithwik</h1>
+# 🧠 GEN-AI LAB ASSIGNMENTS (2303A52330)
+> *Exploring the future of Artificial Intelligence, one lab at a time...*
 
-<body>
-  
-<a href="https://github.com/RickyBandi/GEN-AI/blob/main/LAB_1.ipynb">LAB 01</a> : Jan 8
+👋 Hey there! I'm **B. Rithwik**, and this repository contains my **GEN-AI** lab assignments. Follow along as I experiment with AI-driven solutions, machine learning models, and creative applications of artificial intelligence!
 
-<a href="https://github.com/RickyBandi/GEN-AI/blob/main/LAB_2.ipynb">LAB 02</a> : Jan 15
+## 📌 Lab Progress 📝  
 
-<a href="https://github.com/RickyBandi/GEN-AI/blob/main/LAB_3.ipynb">LAB 03</a> : Jan 22 
-
-<a href="https://github.com/RickyBandi/GEN-AI/blob/main/LAB_4.ipynb">LAB 04</a> : Jan 29
-
-</body>
+| 🏷️ Lab | 🔗 Link | 📅 Date |
+|--------|--------|--------|
+| **LAB 01** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_1.ipynb) | *Jan 8, 2025* |
+| **LAB 02** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_2.ipynb) | *Jan 15, 2025* |
+| **LAB 03** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_3.ipynb) | *Jan 22, 2025* |
+| **LAB 04** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_4.ipynb) | *Jan 29, 2025* |
