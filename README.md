@@ -1,6 +1,6 @@
 #  GEN-AI LAB ASSIGNMENTS (2303A52330)
 
- Hey there! I'm **B. Rithwik**, and this repository contains my **GEN-AI** lab assignments.
+ Hey there! I'm **B. Rithwik**, and this repository contains my **GEN-AI** Lab Assignments.
 
 ## 📌 Lab Progress 📝  
 
