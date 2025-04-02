@@ -14,4 +14,5 @@
 | **LAB 06** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_6.ipynb) | *Feb 19, 2025* |
 | **LAB 07** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_7.ipynb) | *Mar 12, 2025* |
 | **LAB 08** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_8.ipynb) | *Mar 19, 2025* |
-| **LAB 09** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_9.ipynb) | *Mar 19, 2025* |
+| **LAB 09** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_9.ipynb) | *Mar 26, 2025* |
+| **LAB 10** | [🔗 View](https://github.com/RickyBandi/GEN-AI/blob/main/LAB_10.ipynb) | *Apr 2, 2025* |
